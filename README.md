@@ -19,7 +19,9 @@ Configure the websites to extract from, the taxonomy terms to use, etc. in
 spiders/example.py file. Follow the provided examples.
 
 Then browse to the scrapy_drupal root folder and run:
-  scrapy crawl example -o data.json
+```
+scrapy crawl example -o data.json
+```
 
 ## Copyright
 
